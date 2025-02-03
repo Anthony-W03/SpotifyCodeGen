@@ -46,8 +46,7 @@ Creates the final composite image by:
 
 ## Usage
 1. Set up Spotify API credentials
-2. Prepare a dictionary of names and Spotify URLs
-: Example {'Bob':'playlist_url'}
+2. Prepare a dictionary of names and Spotify URLs ( Example {'Bob':'playlist_url'} )
 3. Run the script to generate customized door decorations
 4. Find output images in the 'album_assets' directory
 
