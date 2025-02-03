@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But don't ignore these files
+!.gitignore
+!doordecGen.py
+!README.md
+!dev_notes.md
+
+# Still ignore these even if they match above rules
+__pycache__/
+*.pyc
